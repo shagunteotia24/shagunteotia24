@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shagun Teotia</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shagunteotia24&label=Profile%20views&color=0e75b6&style=flat" alt="shagunteotia24" /> </p>
 
-- 🌱 I’m currently learning **SQL, PowerBI**
+- 🌱 I’m currently learning **ML, PowerBI**
 
 - 📫 How to reach me **shagunteotia4@gmail.com**
 
